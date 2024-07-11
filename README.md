@@ -2,7 +2,7 @@
 Repositório do lab "Modelando o iPhone com UML" da Digital Innovation One.
 
 ### Objetivo
-1. Criar um diagrama UML que represente as funcionalidades descrita no [projeto](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/poo/README.md).
+1. Criar um diagrama UML que represente as funcionalidades (somente representação básica das ações) descritas no [projeto](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/poo/README.md).
 2. Implementar as classes e interfaces correspondentes em Java.
 
 
